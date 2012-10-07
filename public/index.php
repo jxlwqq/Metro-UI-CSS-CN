@@ -133,13 +133,10 @@
           </div>
         </div>
         <div class="row">
-          <? include("adsense.php")?>
-        </div>
+         </div>
       </div>
     </div>
   </div>
-  <? include("footer.php")?>
-</div>
-<?php include("counter.php");?>
-</body>
+ </div>
+ </body>
 </html>

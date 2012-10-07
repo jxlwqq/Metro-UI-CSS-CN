@@ -18,9 +18,8 @@
 <div class="page">
   <div class="page-region">
     <div class="page-region-content">
-      <p class="place-right tertiary-info-secondary-text" style="margin-top: 10px;">创建者 <a class="fg-color-blue" href="http://www.jetbrains.com/phpstorm/" target="_blank">JetBrains PhpStorm</a>
-      </p>
       <p class="place-right tertiary-info-secondary-text" style="margin-top: 10px;">译者 <a class="fg-color-blue" href="http://weibo.com/1659344533" target="_blank">金小某</a></p>
+      <p class="place-right tertiary-info-secondary-text" style="margin-top: 10px;">创建者 <a class="fg-color-blue" href="http://metroui.org.ua/" target="_blank">JetBrains PhpStorm</a> </p>
       <h2>欢迎来到 Metro UI CSS <sup class="fg-color-red"> v 0.1.1</sup></h2>
       <div class="horizontal-menu">
         <ul>
@@ -31,7 +30,7 @@
               <li><a href="layout.php">布局模板</a></li>
               <li><a href="grid.php">栅格系统</a></li>
               <li class="divider"></li>
-              <li><a href="responsive.php">相应式设计</a></li>
+              <li><a href="responsive.php">响应式设计</a></li>
             </ul>
           </li>
           <li class="sub-menu"> <a href="#">基础CSS</a>
@@ -78,7 +77,7 @@
         <p class="tertiary-info-text"> &lt;link href="modern.css" rel="stylesheet"&gt; </p>
         <br />
         <p class="tertiary-info-secondary-text"> <span class="bg-color-greenDark fg-color-white" style="padding: 10px;">本页面应用了 Metro UI CSS.</span> </p>
-         </div>
+      </div>
       <div class="grid">
         <div class="row">
           <div class="span4 bg-color-blue"> <img src="images/simple.png" class="place-right" style="margin: 10px;"/>
@@ -111,7 +110,7 @@
             <ol>
               <li>响应式设计</li>
               <li>图块动画效果</li>
-              <li>额外的组件</li>
+              <li>丰富组件</li>
               <li>整合 Visual Studio</li>
               <li>更多...</li>
             </ol>
@@ -121,7 +120,6 @@
               <li><a href="http://oazabir.github.com/Droptiles/">Droptiles</a></li>
               <li><a href="http://aozora.github.com/bootmetro/">BootMetro</a></li>
             </ul>
-            
             
             <!--
                             <br />
@@ -134,11 +132,10 @@
                             --> 
           </div>
         </div>
-        <div class="row">
-         </div>
+        <div class="row"> </div>
       </div>
     </div>
   </div>
- </div>
- </body>
+</div>
+</body>
 </html>

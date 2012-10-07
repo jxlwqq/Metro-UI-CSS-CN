@@ -25,14 +25,14 @@
 
         <div class="page-header">
             <div class="page-header-content">
-                <h1>Deck of Cards<small>demo</small></h1>
+                <h1>纸牌装饰<small>demo</small></h1>
                 <a href="index.php" class="back-button big page-back"></a>
             </div>
         </div>
 
         <div class="page-region">
             <div class="page-region-content">
-                <h3>Card definition:</h3>
+                <h3>纸牌标记：</h3>
 <pre class="prettyprint linenums span10">
     &lt;div class="card value-class suit-class"&gt;
         &lt;div class="small-suit"&gt;&lt;/div&gt;

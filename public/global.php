@@ -37,7 +37,7 @@
                     <div class="row">
                         <div class="span10">
                             <h2>要求 HTML5 doctype</h2>
-                            <p>Metro UI CSS 用到的HTML元素和CSS属性需要HTML5 doctype。因此每个页面都应该包启HTML5声明。
+                            <p>Metro UI CSS 用到的HTML元素和CSS属性需要<abbr title="<!DOCTYPE> 声明必须位于 <html> 标签之前。该标签告知浏览器文档所使用的HTML规范。HTML5不基于SGML，因此不需要对DTD进行引用，但仍需要“声明”来规范浏览器的行为。">HTML5 doctype</abbr>。因此每个页面都应该包启HTML5声明。
 
 </p>
 
@@ -52,7 +52,7 @@
                     <div class="row">
                         <div class="span10">
                             <h2>CSS 重置</h2>
-                            <p>Metro UI CSS 使用 <a href="http://github.com/necolas/normalize.css">normalize.css</a> 对默认的CSS进行重置(reset)。 Normalize.css项目由 <a href="http://nicolasgallagher.com/">Nicolas Gallaher</a> 创建。
+                            <p>Metro UI CSS 使用 <a href="http://github.com/necolas/normalize.css">normalize.css</a> 对默认的CSS进行重置(<abbr title="覆盖不同浏览器用来显示网页的默认样式表，以确保页面能够在不同的浏览器和系统下拥有同样的呈现。">reset</abbr>)。 Normalize.css项目由 <a href="http://nicolasgallagher.com/">Nicolas Gallaher</a> 创建。
                              
                             </p>
                         </div>

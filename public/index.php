@@ -19,7 +19,7 @@
   <div class="page-region">
     <div class="page-region-content">
       <p class="place-right tertiary-info-secondary-text" style="margin-top: 10px;">译者 <a class="fg-color-blue" href="http://weibo.com/1659344533" target="_blank">金小某</a></p>
-      <p class="place-right tertiary-info-secondary-text" style="margin-top: 10px;">创建者 <a class="fg-color-blue" href="http://metroui.org.ua/" target="_blank">JetBrains PhpStorm</a> </p>
+      <p class="place-right tertiary-info-secondary-text" style="margin-top: 10px;">创建者 <a class="fg-color-blue" href="http://metroui.org.ua/" target="_blank">Sergey Pimenov</a> </p>
       <h2>欢迎来到 Metro UI CSS <sup class="fg-color-red"> v 0.1.1</sup></h2>
       <div class="horizontal-menu">
         <ul>

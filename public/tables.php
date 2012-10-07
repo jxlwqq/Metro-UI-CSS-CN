@@ -25,14 +25,14 @@
 
         <div class="page-header">
             <div class="page-header-content">
-                <h1>Tables<small>demo</small></h1>
+                <h1>表格<small>demo</small></h1>
                 <a href="index.php" class="back-button big page-back"></a>
             </div>
         </div>
 
         <div class="page-region">
             <div class="page-region-content">
-                <h2>Default table</h2>
+                <h2>默认表格样式</h2>
 <pre class="prettyprint linenums">
     &lt;table&gt;
         ...
@@ -61,7 +61,7 @@
                     <tfoot></tfoot>
                 </table>
 
-                <h2>striped table</h2>
+                <h2>背景交替的表格</h2>
 <pre class="prettyprint linenums">
     &lt;table class="striped"&gt;
         ...
@@ -90,7 +90,7 @@
                     <tfoot></tfoot>
                 </table>
 
-                <h2>Bordered table</h2>
+                <h2>有边线的表格</h2>
 <pre class="prettyprint linenums">
     &lt;table class="bordered"&gt;
         ...
@@ -119,7 +119,7 @@
                     <tfoot></tfoot>
                 </table>
 
-                <h2>Hovered table</h2>
+                <h2>有悬停状态的表格</h2>
 <pre class="prettyprint linenums">
     &lt;table class="hovered"&gt;
         ...

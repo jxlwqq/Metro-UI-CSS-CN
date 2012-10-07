@@ -25,7 +25,7 @@
 
         <div class="page-header">
             <div class="page-header-content">
-                <h1>Forms<small>demo</small></h1>
+                <h1>表单<small>demo</small></h1>
                 <a href="index.php" class="back-button big page-back"></a>
             </div>
         </div>
@@ -35,7 +35,7 @@
                 <div class="grid">
                     <div class="row">
                         <div class="span3">
-                            <h2>Check box</h2>
+                            <h2>复选框</h2>
                             <form>
                                 <label class="checkbox as-block" onclick="">
                                     <input type="checkbox" checked="" value="1"/>
@@ -65,7 +65,7 @@
                         </div>
 
                         <div class="span3">
-                            <h2>Radio box</h2>
+                            <h2>单选框</h2>
                             <form>
                                 <label class="radiobox as-block" onclick="">
                                     <input type="radio" name="r1"  checked=""/>
@@ -87,7 +87,7 @@
                         </div>
 
                         <div class="span3">
-                            <h2>Switch Control</h2>
+                            <h2>开关控制</h2>
                             <form>
                                 <label class="switch as-block" onclick="">
                                     <input type="checkbox" checked=""/>
@@ -134,7 +134,7 @@
 
                     <div class="row">
                         <div class="span10">
-                            <h2>Buttons</h2>
+                            <h2>按钮</h2>
                             <form>
                                 <input type="button" value="Button">
                                 <input type="submit" value="Submit">
@@ -153,7 +153,7 @@
 
                     <div class="row">
                         <div class="span5">
-                            <h2>Text box</h2>
+                            <h2>文本输入框</h2>
                             <form>
                                 <div class="input-control text">
                                     <input type="text"  />
@@ -180,7 +180,7 @@
                         </div>
 
                         <div class="span5">
-                            <h2>Password box</h2>
+                            <h2>密码输入框</h2>
                             <form>
                                 <div class="input-control password">
                                     <input type="password" autofocus/>
@@ -284,7 +284,7 @@
 
                     <div class="row">
                         <div class="span10">
-                            <h2>Input with spanN class</h2>
+                            <h2>栅格控制尺寸</h2>
 <pre class="prettyprint linenums">
     &lt;div class="input-control text spanN"&gt;
         &lt;input type="text" /&gt;

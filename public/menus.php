@@ -21,7 +21,7 @@
 </head>
 <body class="modern-ui" onload="prettyPrint()">
     <div class="page secondary">
-        <? include("header.php")?>
+        
 
         <div class="page-header">
             <div class="page-header-content">
@@ -34,7 +34,7 @@
                         <li><a href="#">Item 5</a></li>
                     </ul>
                 </h1>
-                <a href="/" class="back-button big page-back"></a>
+                <a href="index.php" class="back-button big page-back"></a>
             </div>
         </div>
 
@@ -147,16 +147,15 @@
 
                 <div class="grid">
                     <div class="row">
-                        <? include("adsense.php")?>
-                    </div>
+                        </div>
                 </div>
 
             </div>
         </div>
-        <? include("footer.php")?>
+        
 
     </div>
-    <?php include("counter.php");?>
+    
 
 </body>
 </html>

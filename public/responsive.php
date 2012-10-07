@@ -23,7 +23,7 @@
         <div class="page-header">
             <div class="page-header-content">
                 <h1>响应式<small>设计</small></h1>
-                <a href="/" class="back-button big page-back"></a>
+                <a href="index.php" class="back-button big page-back"></a>
             </div>
         </div>
 

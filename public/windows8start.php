@@ -339,7 +339,7 @@
         </div>
     </div>
 </div>
-<?php include("counter.php");?>
+
 
 </body>
 </html>

@@ -26,7 +26,7 @@
 
         <div class="page-header">
             <div class="page-header-content">
-                <h1>Buttons<small>demo</small></h1>
+                <h1>按钮<small>demo</small></h1>
                 <a href="index.php" class="back-button big page-back"></a>
             </div>
         </div>
@@ -36,7 +36,7 @@
                 <div class="grid">
                     <div class="row">
                         <div class="span5">
-                            <h2>Push Button</h2>
+                            <h2>下按按钮</h2>
 
                             <button>Button</button>
                             <button class="default">Button</button>
@@ -52,7 +52,7 @@
                             <button class="bg-color-grayDark">Button</button>
                         </div>
                         <div class="span5">
-                            <h2>Command Button</h2>
+                            <h2>命令按钮</h2>
                             <button class="command-button">Yes, share and connect<small>Use this option for home or work</small></button>
                             <button class="command-button default">Yes, share and connect<small>Use this option for home or work</small></button>
                             <button class="command-button">Tertiary command, do not press :)</button>
@@ -86,7 +86,7 @@
 
                     <div class="row">
                         <div class="span10">
-                            <h2>Button set</h2>
+                            <h2>按钮设置</h2>
                             <div class="button-set place-left" data-role="button-set">
                                 <button class="active">button 1</button>
                                 <button>button 2</button>

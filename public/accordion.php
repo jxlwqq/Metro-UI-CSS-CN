@@ -26,14 +26,14 @@
 
         <div class="page-header">
             <div class="page-header-content">
-                <h1>Accordion<small>demo</small></h1>
+                <h1>折叠<small>demo</small></h1>
                 <a href="index.php" class="back-button big page-back"></a>
             </div>
         </div>
 
         <div class="page-region">
             <div class="page-region-content">
-                <h2>Accordion</h2>
+                <h2>折叠 <small>默认风格</small></h2>
                 <ul class="accordion span10" data-role="accordion">
                     <li>
                         <a href="#">frame 1</a>
@@ -64,7 +64,7 @@
                         </div>
                     </li>
                 </ul>
-                <h2>Accordion Dark</h2>
+                <h2>折叠 <small>黑色风格</small></h2>
                 <ul class="accordion dark span10" data-role="accordion">
                     <li>
                         <a href="#">frame 1</a>
@@ -95,7 +95,7 @@
                         </div>
                     </li>
                 </ul>
-                <h2>Component definition</h2>
+                <h2>组件 <small>释义</small></h2>
 <pre class="prettyprint linenums span10">
     &lt;ul class="accordion" data-role="accordion"&gt;
         &lt;li class="active"&gt;
@@ -114,7 +114,7 @@
     &lt;/ul&gt;
 </pre>
                 <h2>Javascript</h2>
-                <p>Include in head <code>accordion.js</code></p>
+                <p>要用到的jQuery插件 <code>accordion.js</code></p>
             </div>
         </div>
         

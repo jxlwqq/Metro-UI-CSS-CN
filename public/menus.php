@@ -25,7 +25,7 @@
 
         <div class="page-header">
             <div class="page-header-content">
-                <h1 class="sub-menu">Menus<small>demo</small>
+                <h1 class="sub-menu">菜单<small>demo</small>
                     <ul>
                         <li><a href="#">Item 1</a></li>
                         <li><a href="#">Item 2</a></li>
@@ -40,7 +40,7 @@
 
         <div class="page-region">
             <div class="page-region-content">
-                <h2>Horizontal menu</h2>
+                <h2>横向菜单</h2>
                 <div class="span10">
                     <div class="horizontal-menu">
                         <ul>
@@ -63,7 +63,7 @@
 </pre>
                 </div>
 
-                <h2>Horizontal menu with submenu</h2>
+                <h2>带有子菜单的横向菜单</h2>
                 <div class="span10">
                     <div class="horizontal-menu">
                         <ul>

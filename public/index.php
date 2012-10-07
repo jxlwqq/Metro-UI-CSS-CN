@@ -18,11 +18,13 @@
 <div class="page">
   <div class="page-region">
     <div class="page-region-content">
-      <p class="place-right tertiary-info-secondary-text" style="margin-top: 10px;">创建者 <a class="fg-color-blue" href="http://www.jetbrains.com/phpstorm/">JetBrains PhpStorm</a></p>
+      <p class="place-right tertiary-info-secondary-text" style="margin-top: 10px;">创建者 <a class="fg-color-blue" href="http://www.jetbrains.com/phpstorm/" target="_blank">JetBrains PhpStorm</a>
+      </p>
+      <p class="place-right tertiary-info-secondary-text" style="margin-top: 10px;">译者 <a class="fg-color-blue" href="http://weibo.com/1659344533" target="_blank">金小某</a></p>
       <h2>欢迎来到 Metro UI CSS <sup class="fg-color-red"> v 0.1.1</sup></h2>
       <div class="horizontal-menu">
         <ul>
-          <li><a href="/">关于</a></li>
+          <li><a href="">关于</a></li>
           <li class="sub-menu"> <a href="#">框架</a>
             <ul class="dropdown-menu">
               <li><a href="global.php">全局样式</a></li>
